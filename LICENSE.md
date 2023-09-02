@@ -1,4 +1,4 @@
-[apache license 2.0]: https://github.com/hashintel/hash/blob/main/.github/licenses/LICENSE-APACHE.md
+[apache license 2.0]: https://github.com/hashintel/hash/blob/main/.github/licenses/LICENSE-APACHE.md ///
 [contact us]: https://hash.ai/contact?utm_medium=organic&utm_source=github_license_repo-root-file
 [gnu affero general public license 3.0]: https://github.com/hashintel/hash/blob/main/.github/licenses/LICENSE-AGPL.md
 [mit license]: https://github.com/hashintel/hash/blob/main/.github/licenses/LICENSE-MIT.md
